@@ -1,0 +1,3 @@
+C:/Users/will/Documents/Capstone/SRDAQ_Firmware/Firmware/cmake-build-debug/CMakeFiles/Firmware.elf.dir
+C:/Users/will/Documents/Capstone/SRDAQ_Firmware/Firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/will/Documents/Capstone/SRDAQ_Firmware/Firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
